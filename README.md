@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manojkm315
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Manojkm
+- 👀 I’m interested in Frontend and FullStack Development
 - 🌱 I’m currently learning ...Bangalore
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Software Develpoment
 - 📫 How to reach me ...7090681869
 
 <!---
